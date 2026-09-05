@@ -1,7 +1,7 @@
 # Agricultura de Precisión
 
 <p align="center">
-  <img src="/imagenes/banner_web_gestion_agricultura.png" alt="Portada Agricultura de Precisión" width="100%"/>
+  <img src="/images/banner_web_gestion_agricola.png" alt="Portada Agricultura de Precisión" width="100%"/>
 </p>
   <img src="https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge" alt="Estado" />
 
